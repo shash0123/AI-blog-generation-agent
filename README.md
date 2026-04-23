@@ -52,9 +52,7 @@ Final Markdown Blog
 📦 Project Structure
 ```
 .
-├── main.py / notebook.ipynb
-├── images/                  # Generated images
-├── <blog_title>.md          # Final output
+├── blog_generator.py
 └── README.md
 ```
 ---
